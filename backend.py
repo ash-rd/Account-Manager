@@ -115,14 +115,3 @@ def drop_TableUser():
 
 
 connect()
-
-
-
-
-
-
-
-
-
-
-
