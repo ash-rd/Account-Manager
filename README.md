@@ -1,5 +1,5 @@
 # Account-Manager
-This is an python based gui application made with tkinter module and sqlite3 (College Project)
+This is an python based gui application made with tkinter module and sqlite3
 
 ## Requirement
 
@@ -23,4 +23,5 @@ Pull requests are welcome...
 ## Note 
 As it’s still in under developing it may have some issue, 
 
-## 
+## Creative Commons
+> Feel Free to Update Change...
